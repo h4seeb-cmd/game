@@ -32,7 +32,9 @@
   text-align: center;
   clear: both;
 }
-
+.body {
+  color: yellow;
+}
 </style>
 
 <section class = "loginform">
